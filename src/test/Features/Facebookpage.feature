@@ -4,6 +4,7 @@ Feature: login page of facebook
     When I access facebook url
     Then I see facebook login page
   # this is my new change to check develop branch
+  # this is my second change to the App
 
 #    Scenario: forgotten password link and navigate back
 #      Given I am chrome user
